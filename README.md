@@ -1,9 +1,7 @@
-![MasterHead](https://wallpapers.com/images/hd/i-am-a-programmer-programming-wmwo8lphfm5m70xs.jpg)
 <h1 align="center">Hi 👋, I'm ADHIL SHAFEER</h1>
 <h3 align="center">STUDENT FROM 42 ABUDHABI, UAE</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Cdi-BJmxDQYAAAAM/yes-jagadish.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi-2005&label=Profile%20views&color=0e75b6&style=flat" alt="adhi-2005" /> </p>
 
 - 🔭 I’m currently working on **Philosophers and MiniShell(ofcourse the toughest one)..**
 
