@@ -8,28 +8,21 @@
 <body>
     <h1>Hello! 👋 I'm Adhil</h1>
     <p>A passionate student from India currently based in the UAE, studying at <strong>42 Abu Dhabi</strong>, with a keen interest in software development, music, and aviation.</p>
-    
     <img src="https://your-meme-image-url.jpg" alt="Meme" width="300">
-
     <h2>👀 Profile Visits</h2>
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Visits">
-
     <h2>🎓 Education and Skills</h2>
     <ul>
         <li><strong>Front-End Development:</strong> Completed a basic front-end UI development course at Upcode Software Labs.</li>
         <li><strong>C Programming:</strong> Proficient in C programming, developing a solid foundation in software development.</li>
     </ul>
-
     <h2>🎯 Goals</h2>
     <p>I aspire to become a multifaceted professional with expertise in software development, business, and aviation.</p>
-
     <h2>🎵 Hobbies</h2>
     <p>In my free time, I enjoy playing music, singing, and exploring new technologies. I'm always eager to enhance my skill set and take on new challenges.</p>
-
     <h2>🚀 Current Project</h2>
     <p><strong>Project Name:</strong> <a href="https://github.com/your-repo-link">Your Current Project</a></p>
     <p>Description: Brief description of the project.</p>
-
     <h2>📫 Connect with Me</h2>
     <p>
         <a href="https://instagram.com/yourusername">
@@ -45,7 +38,6 @@
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
     </p>
-
     <h2>🛠️ Tools and Technologies</h2>
     <p>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -62,10 +54,8 @@
         <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </p>
-
     <h2>📊 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Adhil's GitHub stats">
-
     <h2>🔥 Most Used Languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
 </body>
