@@ -29,9 +29,9 @@
     <h2>🎵 Hobbies</h2>
             <p>In my free time, I enjoy playing music, singing, and exploring new technologies. I'm always eager to enhance my skill set and take on new challenges.</p>
 
-   <h2>🚀 Current Project</h2>
+  <!-- <h2>🚀 Current Project</h2>
             <p><strong>Project Name:</strong> <a href="https://github.com/your-repo-link" style="text-decoration: none;">Your Current Project</a></p>
-            <p>Description: Brief description of the project.</p>
+            <p>Description: Brief description of the project.</p> -->
 
    <h2>📫 Connect with Me</h2>
             <p>
