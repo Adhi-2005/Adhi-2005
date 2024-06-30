@@ -21,6 +21,9 @@
                 <li><strong>Front-End Development:</strong> Completed a basic front-end UI development course at Upcode Software Labs.</li>
                 <li><strong>C Programming:</strong> Proficient in C programming, developing a solid foundation in software development.</li>
             </ul>
+             <div style="flex: 1; text-align: right;">
+            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300" style="margin-top: 40px;">
+        </div>
       <h2>🎯 Goals</h2>
             <p>I aspire to become a multifaceted professional with expertise in software development, business, and aviation.</p>
     <h2>🎵 Hobbies</h2>
@@ -65,10 +68,6 @@
             <img src="https://github-readme-stats.vercel.app/api?username=adhi-2005&show_icons=true&theme=radical" alt="Adhil's GitHub stats">
             <h2>🔥 Most Used Languages</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-2005&layout=compact&theme=radical" alt="Top Langs">
-        </div>
-  <!-- Right side image -->
-        <div style="flex: 1; text-align: right;">
-            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300" style="margin-top: 40px;">
         </div>
     </div>
 </body>
