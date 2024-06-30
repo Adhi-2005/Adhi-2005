@@ -8,8 +8,8 @@
     <h1>Hello! 👋 I'm Adhil</h1>
     <p>A passionate student from India currently based in the UAE, studying at <strong>42 Abu Dhabi</strong>, with a keen interest in software development, music, and aviation.</p>
     <h2>👀 Profile Visits</h2>
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Visits"> <br/>
-    <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Visits">
+    <img src="https://i.imgflip.com/2sd8qv.jpg" align="right" alt="Meme" width="300">
     <h2>🎓 Education and Skills</h2>
     <ul>
         <li><strong>Front-End Development:</strong> Completed a basic front-end UI development course at Upcode Software Labs.</li>
