@@ -16,7 +16,7 @@
         }
         .meme {
             margin-left: 20px;
-            align="left";
+            align="right";
         }
         ul {
             list-style-type: none;
