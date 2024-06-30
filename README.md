@@ -4,26 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body {
+    body {
             font-family: Arial, sans-serif;
         }
-        .profile-visits {
+      .profile-visits {
             text-align: center;
         }
-        .content {
+    .content {
             display: flex;
             flex-direction: row-reverse;
         }
-        .meme {
+    .meme {
             margin-left: 20px;
         }
-        ul {
+       ul {
             list-style-type: none;
         }
-        a {
+       a {
             text-decoration: none;
         }
-        .tools img {
+       .tools img {
             margin: 5px;
         }
     </style>
