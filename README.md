@@ -17,6 +17,9 @@
         .meme {
             margin-left: 20px;
         }
+        .meme-img {
+            align="right";
+        }
         ul {
             list-style-type: none;
         }
@@ -39,7 +42,7 @@
 
 <div class="content">
         <div class="meme">
-            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" align="right" width="300">
+            <img class="meme-img" src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme"width="300">
         </div>
         <div class="main-content">
             <h2>🎓 Education and Skills</h2>
