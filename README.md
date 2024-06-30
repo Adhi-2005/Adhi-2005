@@ -12,13 +12,9 @@
         }
         .content {
             display: flex;
-            align-items: flex-start;
-        }
-        .main-content {
-            flex: 3;
+            flex-direction: row-reverse;
         }
         .meme {
-            flex: 1;
             margin-left: 20px;
         }
         ul {
@@ -42,6 +38,9 @@
     </div>
 
 <div class="content">
+        <div class="meme">
+            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300">
+        </div>
         <div class="main-content">
             <h2>🎓 Education and Skills</h2>
             <ul>
@@ -59,7 +58,7 @@
             <p><strong>Project Name:</strong> <a href="https://github.com/your-repo-link">Your Current Project</a></p>
             <p>Description: Brief description of the project.</p>
 
-<h2>📫 Connect with Me</h2>
+ <h2>📫 Connect with Me</h2>
             <p>
                 <a href="https://instagram.com/yourusername">
                     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -75,7 +74,7 @@
                 </a>
             </p>
 
-<h2>🛠️ Tools and Technologies</h2>
+  <h2>🛠️ Tools and Technologies</h2>
             <p class="tools">
                 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
                 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -92,14 +91,11 @@
                 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
             </p>
 
-<h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Stats</h2>
             <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Adhil's GitHub stats">
 
-<h2>🔥 Most Used Languages</h2>
+   <h2>🔥 Most Used Languages</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
-        </div>
-        <div class="meme">
-            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300">
         </div>
     </div>
 </body>
