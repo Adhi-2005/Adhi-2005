@@ -69,7 +69,7 @@
                 <a href="https://discord.gg/yourdiscordid">
                     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
                 </a>
-                <a href="adhilshafeer1@gmail.com">
+                <a href="mailto:adhilshafeer1@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
                 </a>
             </p>
