@@ -7,7 +7,7 @@
 <body>
     <h1>Hello! 👋 I'm Adhil</h1>
     <p>A passionate student from India currently based in the UAE, studying at <strong>42 Abu Dhabi</strong>, with a keen interest in software development, music, and aviation.</p>
-    <img src="https://your-meme-image-url.jpg" alt="Meme" width="300">
+    <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300">
     <h2>👀 Profile Visits</h2>
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Visits">
     <h2>🎓 Education and Skills</h2>
