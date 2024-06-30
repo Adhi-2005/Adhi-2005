@@ -60,17 +60,17 @@
 
  <h2>📫 Connect with Me</h2>
             <p>
-                <a href="https://instagram.com/yourusername">
-                    <img src="https://www.instagram.com/ig.adhil_shafeer" alt="Instagram">
+                <a href="https://www.instagram.com/ig.adhil_shafeer">
+                    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
                 </a>
-                <a href="https://linkedin.com/in/yourusername">
-                    <img src="https://www.linkedin.com/in/adhil-shafeer-305115228/" alt="LinkedIn">
+                <a href="https://www.linkedin.com/in/adhil-shafeer-305115228/">
+                    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
                 </a>
                 <a href="https://discord.gg/yourdiscordid">
                     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
                 </a>
-                <a href="mailto:your.email@gmail.com">
-                    <img src="adhilshafeer1@gmail.com" alt="Gmail">
+                <a href="adhilshafeer1@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
                 </a>
             </p>
 
