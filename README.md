@@ -17,9 +17,6 @@
         .meme {
             margin-left: 20px;
         }
-        .meme-img {
-            align="right";
-        }
         ul {
             list-style-type: none;
         }
@@ -41,15 +38,15 @@
     </div>
 
 <div class="content">
-        <div class="meme">
-            <img class="meme-img" src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme"width="300">
-        </div>
         <div class="main-content">
             <h2>🎓 Education and Skills</h2>
             <ul>
                 <li><strong>Front-End Development:</strong> Completed a basic front-end UI development course at Upcode Software Labs.</li>
                 <li><strong>C Programming:</strong> Proficient in C programming, developing a solid foundation in software development.</li>
             </ul>
+            <div class="meme">
+            <img src="https://i.imgflip.com/2sd8qv.jpg" alt="Meme" width="300">
+        </div>
 
 <h2>🎯 Goals</h2>
             <p>I aspire to become a multifaceted professional with expertise in software development, business, and aviation.</p>
