@@ -92,10 +92,10 @@
             </p>
 
   <h2>📊 GitHub Stats</h2>
-            <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Adhil's GitHub stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=adhi-2005&show_icons=true&theme=radical" alt="Adhil's GitHub stats">
 
    <h2>🔥 Most Used Languages</h2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi-2005&layout=compact&theme=radical" alt="Top Langs">
         </div>
     </div>
 </body>
